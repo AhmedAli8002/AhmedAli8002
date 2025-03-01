@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @AhmedAli8002
+- 👋 Hi, I’m @AhmedAli
 - 👀 I’m interested in learning.
 - 🌱 I’m currently learning Python.
 - 💞️ I’m looking to collaborate on AI
